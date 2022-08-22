@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 ![Kirsten's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirsten-tay&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirsten-tay&repo=spectrum-iot)](https://github.com/kirsten-tay/spectrum-iot) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirsten-tay&repo=khoby-web-one)](https://github.com/kirsten-tay/khoby-web-one)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirsten-tay&repo=spectrum-iot&show_icons=true&theme=dark)](https://github.com/kirsten-tay/spectrum-iot) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirsten-tay&repo=khoby-web-one&show_icons=true&theme=dark)](https://github.com/kirsten-tay/khoby-web-one)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kirsten_tay&show_icons=true&&bg_color=180,orange,pink)](https://github.com/kirsten-tay/github-readme-stats)
