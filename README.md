@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirsten-tay&repo=spectrum-iot)](https://github.com/kirsten-tay/spectrum-iot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kirsten-tay&repo=github-readme-stats)](https://github.com/kirsten-tay/github-readme-stats )
   
