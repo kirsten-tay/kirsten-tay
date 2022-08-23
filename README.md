@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-<!--
-**kirsten-tay/kirsten-tay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kirsten-tay&label=Profile%20views&color=E0245E&style=flat" alt="kirsten-tay" /> </p>
 
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on spectrum .
 - 🌱 I’m currently learning typscript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on mobile apps and websites
+- 💬 Ask me about frontend or Iot 😎
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kirsten-tay/),
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
