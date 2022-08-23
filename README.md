@@ -1,8 +1,9 @@
-### Hi there 👋
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kirsten-tay&label=Profile%20views&color=E0245E&style=flat" alt="kirsten-tay" /> </p>
-
-
+### Hi there 👋
+                      <br>  i'm a Frontend Developer</br>
+                        
 - 🔭 I’m currently working on personal projects .
 - 🌱 I’m currently learning something cool
 - 🏁 I'm looking forward to learning: ux design
