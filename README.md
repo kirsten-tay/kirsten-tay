@@ -27,9 +27,5 @@
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,arduino,bootstrap,nextjs,tailwind,python,typescript,nodejs,vscode,mysql&theme=dark&perline=6)](https://skillicons.dev)
 
-<h3>LINK:</H3>
 
-[Linkedin](https://www.linkedin.com/in/kirsten-tay/)   |
-[Twitter](https://twitter.com/_sedyy)   |
-[Email](tsykirsten@gmail.com)
 
