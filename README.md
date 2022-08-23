@@ -21,8 +21,11 @@
 [![ stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kirsten_tay&show_icons=true&&bg_color=180,orange,pink)](https://github.com/kirsten-tay/github-readme-stats)
 
 
-![Kirsten's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirsten-tay&show_icons=true&theme=radical)
 
+![Kirsten's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirsten-tay&show_icons=true&theme=radical)
+<br />
+    <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=kirsten-tay&theme=dracula" /></a>
+    <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,arduino,bootstrap,nextjs,tailwind,python,typescript,nodejs,vscode,mysql&theme=dark&perline=6)](https://skillicons.dev)
 
 <h3>LINK:</H3>
