@@ -3,8 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kirsten-tay&label=Profile%20views&color=E0245E&style=flat" alt="kirsten-tay" /> </p>
 
 
-- 🔭 I’m currently working on spectrum .
-- 🌱 I’m currently learning typscript
+- 🔭 I’m currently working on personal projects .
+- 🌱 I’m currently learning something cool
+- 🏁 I'm looking forward to learning: ux design
 - 👯 I’m looking to collaborate on mobile apps and websites
 - 💬 Ask me about frontend or Iot 😎
 - ⚡ Fun fact: ...
@@ -18,14 +19,12 @@
 
 
 
-[![ stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kirsten_tay&show_icons=true&&bg_color=180,orange,pink)](https://github.com/kirsten-tay/github-readme-stats)
-
-
-
 ![Kirsten's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirsten-tay&show_icons=true&theme=radical)
 <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=kirsten-tay&theme=dracula" /></a>
     <br />
+    
+    
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,arduino,bootstrap,nextjs,tailwind,python,typescript,nodejs,vscode,mysql&theme=dark&perline=6)](https://skillicons.dev)
 
 <h3>LINK:</H3>
