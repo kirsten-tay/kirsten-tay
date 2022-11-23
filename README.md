@@ -6,7 +6,7 @@
                         
 - 🔭 I’m currently working on personal projects .
 - 🌱 I’m currently learning something cool
-- 🏁 I'm looking forward to learning: ux design
+- 🏁 I'm looking forward to learning: 
 - 👯 I’m looking to collaborate on mobile apps and websites
 - 💬 Ask me about frontend or Iot 😎
 - ⚡ Fun fact: ...
